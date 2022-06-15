@@ -1,0 +1,44 @@
+@font-face {
+    font-family: AvenirNext;
+    src: url(https://melmagazine.com/wp-content/themes/mel/redesign/assets/fonts/avenir-regular.woff2) format("woff2");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: AvenirNext;
+    src: url(https://melmagazine.com/wp-content/themes/mel/redesign/assets/fonts/avenir-medium.woff2) format("woff2");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: AvenirNext;
+    src: url(https://melmagazine.com/wp-content/themes/mel/redesign/assets/fonts/avenir-bold.woff2) format("woff2");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: url(https://melmagazine.com/wp-content/themes/mel/assets/fonts/Oswald-300.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url(https://melmagazine.com/wp-content/themes/mel/assets/fonts/Oswald-400.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url(https://melmagazine.com/wp-content/themes/mel/assets/fonts/Oswald-500.ttf) format('truetype');
+}
